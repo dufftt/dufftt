@@ -5,21 +5,21 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Computer Vision and Flutter Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🎓 &nbsp; Studying Electrical Engineering, but also love to play around visual world.
+- 💼 &nbsp; Data Science Enthusiast, Computer Vision guy and recently some Flutter too.
+- 🌱 &nbsp; Love to work with image based problems and trying to implement them in mobile applications using Flutter.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
+- 💻 &nbsp; Python | Dart | C
+- 🌐 &nbsp; Computer Vision | Tensorflow | Scikit-Learn | Pytorch | Android | Flutter 
+- 🛢 &nbsp; Linux(CLI) | Firebase | Data Analysis | Transfer Learning
+- 🔧 &nbsp; Android Studio | JupyterLab | Visual Studio code | Colab | Linux(CLI)
+- 🖥 &nbsp; OpenCV | Data Science | Image Processing | Machine Learning
 
 <br>
 
@@ -40,4 +40,3 @@
 </p>
 
 
-# dufftt
